@@ -1,0 +1,26 @@
+一、直接运行
+1.将数据库文件附加到SQL Server中
+2.通过快捷方式修改dbcp.properties中的用户名和密码
+3运行start.bat快捷方式（当前目录下的tomcat会启动，并且使用同一目录下的jdk8）
+4.在浏览器输入   http://localhost:8081/EquipManage/homepage.html 进入系统主页
+
+二、使用eclipse
+1.把项目文件中的EquipMange解压后，导入到eclipse中，
+2.配置tomcat和jre,导入jars目录里面的jar包
+3.通过eclipse run on server运行项目文件homepage.html
+
+三、使用其他tomcat
+1.把 “项目文件/tomcat部署项目”中的EquipMange复制到自己的tomcat中的webapps目录下，
+2.把jars里面的jar包复制到tomcat/lib中
+1.将数据库文件附加到SQL Server中
+2.修改dbcp中的用户名和密码，需要到tomcat/webapps/EquipMange/WEB-INF/classes/dbcp.properties中修改数据库密码
+4.运行自己的tomcat/bin/startup.bat，启动tomcat，使用自己的jdk
+5.浏览器输入  http://localhost:8081/EquipManage/homepage.html  进入首页
+
+四、说明
+	项目测试通过的环境是tomcat- 8.5.60 、jdk8、sql server2019和2008、eclipse-jee-2020-9、IDEA-2020-3，Chrome
+如果通过命令行运行tomcat时，可能有时会卡住，没有出现任何错误，此时按一下ctrl+c就会继续运行，如果多次按就会退出tomcat
+系统中的登录账号密码有
+账号：1  密码：123456
+账号：2  密码：123456
+账号：3  密码：123456
