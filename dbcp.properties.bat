@@ -1,1 +1,0 @@
-start /d "apache-tomcat-8.5.60\webapps\EquipManage\WEB-INF\classes"  notepad dbcp.properties
