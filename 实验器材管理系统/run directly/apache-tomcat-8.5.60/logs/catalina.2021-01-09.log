@@ -1,0 +1,353 @@
+09-Jan-2021 00:18:19.945 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 00:18:19.955 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 00:18:19.975 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 00:18:20.205 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 00:18:20.505 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 00:18:20.525 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1018 ms
+09-Jan-2021 00:18:20.565 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 00:18:20.565 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 00:18:20.605 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 00:18:24.845 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 00:18:24.905 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]的部署已在[4,300]ms内完成
+09-Jan-2021 00:18:24.905 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]
+09-Jan-2021 00:18:28.295 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 00:18:28.311 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]的部署已在[3,405]毫秒内完成
+09-Jan-2021 00:18:28.315 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]
+09-Jan-2021 00:18:31.752 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 00:18:31.822 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]的部署已在[3,507]毫秒内完成
+09-Jan-2021 00:18:31.822 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]
+09-Jan-2021 00:18:34.621 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 00:18:34.631 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]的部署已在[2,809]毫秒内完成
+09-Jan-2021 00:18:34.631 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]
+09-Jan-2021 00:18:37.262 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 00:18:37.272 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]的部署已在[2,641]毫秒内完成
+09-Jan-2021 00:18:37.272 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]
+09-Jan-2021 00:18:39.976 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 00:18:39.976 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]的部署已在[2,704]毫秒内完成
+09-Jan-2021 00:18:39.986 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8081"]
+09-Jan-2021 00:18:39.996 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 19470 ms
+09-Jan-2021 00:30:23.105 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload 重新加载上下文[/EquipManage]
+09-Jan-2021 00:32:28.077 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload 已开始重新加载名为[/EquipManage]的上下文
+09-Jan-2021 00:32:28.101 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardWrapper.unload 正在等待为Servlet[jsp]释放[7]实例
+09-Jan-2021 00:32:37.303 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 00:32:37.510 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload 已完成重新加载名为/EquipManage的上下文
+09-Jan-2021 00:37:32.658 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8081"]
+09-Jan-2021 00:37:33.219 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+09-Jan-2021 00:37:33.336 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8081"]
+09-Jan-2021 00:37:33.346 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8081"]
+09-Jan-2021 01:01:30.981 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 01:01:30.987 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 01:01:30.992 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 01:01:30.993 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 01:01:30.993 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 01:01:30.994 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 01:01:30.994 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 01:01:30.994 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 01:01:30.995 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 01:01:30.995 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 01:01:30.995 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 01:01:30.998 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 01:01:31.002 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 01:01:31.002 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 01:01:31.002 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 01:01:31.003 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 01:01:31.003 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 01:01:31.003 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 01:01:31.004 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 01:01:31.004 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 01:01:31.004 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 01:01:31.005 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 01:01:31.019 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 01:01:31.492 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 01:01:32.271 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 01:01:32.328 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2183 ms
+09-Jan-2021 01:01:32.416 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 01:01:32.417 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 01:01:32.461 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 01:01:42.293 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 01:01:42.552 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]的部署已在[10,080]ms内完成
+09-Jan-2021 01:01:42.555 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]
+09-Jan-2021 01:01:48.521 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 01:01:48.545 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]的部署已在[5,990]毫秒内完成
+09-Jan-2021 01:01:48.546 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]
+09-Jan-2021 01:01:54.552 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 01:01:54.689 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]的部署已在[6,143]毫秒内完成
+09-Jan-2021 01:01:54.690 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]
+09-Jan-2021 01:01:59.999 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 01:02:00.023 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]的部署已在[5,333]毫秒内完成
+09-Jan-2021 01:02:00.024 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]
+09-Jan-2021 01:02:04.672 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 01:02:04.679 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]的部署已在[4,655]毫秒内完成
+09-Jan-2021 01:02:04.685 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]
+09-Jan-2021 01:02:12.286 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 01:02:12.296 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\课程设计-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]的部署已在[7,611]毫秒内完成
+09-Jan-2021 01:02:12.310 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8081"]
+09-Jan-2021 01:02:12.338 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 40008 ms
+09-Jan-2021 01:02:46.158 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8081"]
+09-Jan-2021 01:02:46.627 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+09-Jan-2021 01:02:46.863 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8081"]
+09-Jan-2021 01:02:46.879 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8081"]
+09-Jan-2021 19:10:37.521 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 19:10:37.525 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 19:10:37.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 19:10:37.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 19:10:37.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 19:10:37.528 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 19:10:37.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 19:10:37.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 19:10:37.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 19:10:37.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 19:10:37.529 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 19:10:37.532 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 19:10:37.533 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 19:10:37.533 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 19:10:37.533 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 19:10:37.533 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 19:10:37.533 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 19:10:37.534 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 19:10:37.534 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 19:10:37.534 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 19:10:37.534 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 19:10:37.534 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 19:10:37.541 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 19:10:37.765 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 19:10:38.074 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 19:10:38.092 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1020 ms
+09-Jan-2021 19:10:38.154 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 19:10:38.154 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 19:10:38.202 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 19:10:42.800 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 19:10:42.927 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]的部署已在[4,720]ms内完成
+09-Jan-2021 19:10:42.928 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]
+09-Jan-2021 19:10:45.898 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 19:10:45.906 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]的部署已在[2,978]毫秒内完成
+09-Jan-2021 19:10:45.906 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]
+09-Jan-2021 19:10:49.312 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 19:10:49.381 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]的部署已在[3,475]毫秒内完成
+09-Jan-2021 19:10:49.382 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]
+09-Jan-2021 19:10:52.149 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 19:10:52.155 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]的部署已在[2,773]毫秒内完成
+09-Jan-2021 19:10:52.156 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]
+09-Jan-2021 19:10:54.957 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 19:10:54.967 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]的部署已在[2,810]毫秒内完成
+09-Jan-2021 19:10:54.969 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]
+09-Jan-2021 19:10:57.740 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 19:10:57.745 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]的部署已在[2,776]毫秒内完成
+09-Jan-2021 19:10:57.750 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8081"]
+09-Jan-2021 19:10:57.760 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 19666 ms
+09-Jan-2021 19:23:37.208 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8081"]
+09-Jan-2021 19:23:37.427 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+09-Jan-2021 19:23:37.490 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8081"]
+09-Jan-2021 19:23:37.495 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8081"]
+09-Jan-2021 22:16:06.010 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 22:16:06.015 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 22:16:06.015 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 22:16:06.015 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 22:16:06.015 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 22:16:06.016 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 22:16:06.016 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 22:16:06.016 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 22:16:06.016 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 22:16:06.016 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:16:06.016 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:16:06.019 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 22:16:06.019 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 22:16:06.020 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 22:16:06.020 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 22:16:06.020 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 22:16:06.020 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:16:06.020 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:16:06.020 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 22:16:06.021 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 22:16:06.021 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 22:16:06.021 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 22:16:06.029 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 22:16:06.275 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 22:16:06.560 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 22:16:06.574 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 962 ms
+09-Jan-2021 22:16:06.622 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 22:16:06.622 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 22:16:06.648 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 22:24:51.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 22:24:51.393 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 22:24:51.393 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 22:24:51.393 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 22:24:51.394 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 22:24:51.394 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 22:24:51.394 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 22:24:51.394 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 22:24:51.394 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 22:24:51.394 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:24:51.394 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:24:51.397 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 22:24:51.397 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 22:24:51.399 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 22:24:51.407 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 22:24:51.581 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 22:24:51.864 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 22:24:51.874 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 892 ms
+09-Jan-2021 22:24:51.918 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 22:24:51.918 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 22:24:51.971 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 22:24:56.175 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:24:56.316 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]的部署已在[4,340]ms内完成
+09-Jan-2021 22:24:56.317 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]
+09-Jan-2021 22:24:59.377 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:24:59.383 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]的部署已在[3,066]毫秒内完成
+09-Jan-2021 22:24:59.383 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]
+09-Jan-2021 22:26:38.229 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 22:26:38.232 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 22:26:38.233 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 22:26:38.233 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 22:26:38.233 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 22:26:38.233 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 22:26:38.233 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 22:26:38.234 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 22:26:38.234 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 22:26:38.234 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:26:38.234 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:26:38.235 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 22:26:38.235 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 22:26:38.235 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 22:26:38.235 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 22:26:38.235 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 22:26:38.236 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:26:38.238 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:26:38.238 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 22:26:38.238 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 22:26:38.238 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 22:26:38.238 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 22:26:38.246 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 22:26:38.416 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 22:26:38.688 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 22:26:38.704 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 845 ms
+09-Jan-2021 22:26:38.757 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 22:26:38.757 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 22:26:38.799 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 22:26:43.568 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:26:43.651 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]的部署已在[4,846]ms内完成
+09-Jan-2021 22:26:43.652 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]
+09-Jan-2021 22:26:47.351 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:26:47.365 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]的部署已在[3,713]毫秒内完成
+09-Jan-2021 22:26:47.366 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]
+09-Jan-2021 22:27:36.931 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 22:27:36.934 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 22:27:36.935 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 22:27:36.935 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 22:27:36.935 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 22:27:36.935 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 22:27:36.935 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 22:27:36.936 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 22:27:36.936 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 22:27:36.936 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:27:36.936 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:27:36.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 22:27:36.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 22:27:36.939 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 22:27:36.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 22:27:36.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 22:27:36.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:27:36.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:27:36.940 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 22:27:36.941 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 22:27:36.941 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 22:27:36.941 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 22:27:36.949 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 22:27:37.113 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 22:27:37.403 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 22:27:37.417 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 862 ms
+09-Jan-2021 22:27:37.463 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 22:27:37.464 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 22:27:37.504 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 22:27:41.369 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:27:41.430 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]的部署已在[3,924]ms内完成
+09-Jan-2021 22:27:41.431 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]
+09-Jan-2021 22:27:44.428 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:27:44.435 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]的部署已在[3,004]毫秒内完成
+09-Jan-2021 22:27:44.435 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]
+09-Jan-2021 22:27:47.854 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:27:47.924 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]的部署已在[3,489]毫秒内完成
+09-Jan-2021 22:27:47.924 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]
+09-Jan-2021 22:27:50.771 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:27:50.777 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]的部署已在[2,853]毫秒内完成
+09-Jan-2021 22:27:50.777 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]
+09-Jan-2021 22:29:16.320 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+09-Jan-2021 22:29:16.323 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+09-Jan-2021 22:29:16.323 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+09-Jan-2021 22:29:16.323 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+09-Jan-2021 22:29:16.324 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+09-Jan-2021 22:29:16.324 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+09-Jan-2021 22:29:16.324 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\jdk-8u271\jre
+09-Jan-2021 22:29:16.324 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+09-Jan-2021 22:29:16.324 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+09-Jan-2021 22:29:16.325 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:29:16.325 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60
+09-Jan-2021 22:29:16.328 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=..\..\apache-tomcat-8.5.60\conf\logging.properties
+09-Jan-2021 22:29:16.328 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2021 22:29:16.329 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2021 22:29:16.329 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2021 22:29:16.329 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+09-Jan-2021 22:29:16.329 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:29:16.329 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=..\..\apache-tomcat-8.5.60
+09-Jan-2021 22:29:16.329 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=..\..\apache-tomcat-8.5.60\temp
+09-Jan-2021 22:29:16.329 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+09-Jan-2021 22:29:16.330 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+09-Jan-2021 22:29:16.330 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+09-Jan-2021 22:29:16.336 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+09-Jan-2021 22:29:16.505 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+09-Jan-2021 22:29:16.762 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+09-Jan-2021 22:29:16.775 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 821 ms
+09-Jan-2021 22:29:16.810 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+09-Jan-2021 22:29:16.811 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+09-Jan-2021 22:29:16.851 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]
+09-Jan-2021 22:29:20.452 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:29:20.508 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\EquipManage.war]的部署已在[3,655]ms内完成
+09-Jan-2021 22:29:20.510 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]
+09-Jan-2021 22:29:23.386 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:29:23.393 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\docs]的部署已在[2,883]毫秒内完成
+09-Jan-2021 22:29:23.393 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]
+09-Jan-2021 22:29:26.846 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:29:26.924 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\examples]的部署已在[3,531]毫秒内完成
+09-Jan-2021 22:29:26.924 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]
+09-Jan-2021 22:29:29.934 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:29:29.942 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\host-manager]的部署已在[3,018]毫秒内完成
+09-Jan-2021 22:29:29.942 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]
+09-Jan-2021 22:29:32.714 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:29:32.721 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\manager]的部署已在[2,779]毫秒内完成
+09-Jan-2021 22:29:32.723 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]
+09-Jan-2021 22:29:35.591 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2021 22:29:35.597 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\Users\HEYUANFLY\Desktop\Java课设-1861710130何远飞\apache-tomcat-8.5.60\webapps\ROOT]的部署已在[2,873]毫秒内完成
+09-Jan-2021 22:29:35.628 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8081"]
+09-Jan-2021 22:29:35.663 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 18888 ms
+09-Jan-2021 22:29:37.718 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8081"]
+09-Jan-2021 22:29:37.976 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+09-Jan-2021 22:29:38.021 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8081"]
+09-Jan-2021 22:29:38.026 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8081"]

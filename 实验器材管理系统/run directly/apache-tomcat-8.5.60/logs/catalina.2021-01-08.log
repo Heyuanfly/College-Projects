@@ -1,0 +1,64 @@
+08-Jan-2021 13:43:02.450 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.60
+08-Jan-2021 13:43:02.454 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Nov 12 2020 17:31:55 UTC
+08-Jan-2021 13:43:02.455 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      8.5.60.0
+08-Jan-2021 13:43:02.455 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+08-Jan-2021 13:43:02.455 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+08-Jan-2021 13:43:02.455 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+08-Jan-2021 13:43:02.455 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     D:\java\jre1.8.0_271
+08-Jan-2021 13:43:02.456 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_271-b09
+08-Jan-2021 13:43:02.456 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+08-Jan-2021 13:43:02.457 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\HouDuan\apache-tomcat-8.5.60
+08-Jan-2021 13:43:02.457 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\HouDuan\apache-tomcat-8.5.60
+08-Jan-2021 13:43:02.460 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\HouDuan\apache-tomcat-8.5.60\conf\logging.properties
+08-Jan-2021 13:43:02.460 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Jan-2021 13:43:02.460 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+08-Jan-2021 13:43:02.461 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Jan-2021 13:43:02.461 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+08-Jan-2021 13:43:02.461 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\HouDuan\apache-tomcat-8.5.60
+08-Jan-2021 13:43:02.462 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\HouDuan\apache-tomcat-8.5.60
+08-Jan-2021 13:43:02.462 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\HouDuan\apache-tomcat-8.5.60\temp
+08-Jan-2021 13:43:02.463 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.23]。
+08-Jan-2021 13:43:02.463 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+08-Jan-2021 13:43:02.464 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+08-Jan-2021 13:43:02.469 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1c  28 May 2019]
+08-Jan-2021 13:43:02.642 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8081"]
+08-Jan-2021 13:43:02.903 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+08-Jan-2021 13:43:02.915 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 853 ms
+08-Jan-2021 13:43:02.944 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+08-Jan-2021 13:43:02.945 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.60
+08-Jan-2021 13:43:02.975 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\HouDuan\apache-tomcat-8.5.60\webapps\equipManage.war]
+08-Jan-2021 13:43:05.891 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:43:05.945 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\HouDuan\apache-tomcat-8.5.60\webapps\equipManage.war]的部署已在[2,967]ms内完成
+08-Jan-2021 13:43:05.947 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\HouDuan\apache-tomcat-8.5.60\webapps\equip_manage.war]
+08-Jan-2021 13:43:08.250 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:43:08.257 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\HouDuan\apache-tomcat-8.5.60\webapps\equip_manage.war]的部署已在[2,310]ms内完成
+08-Jan-2021 13:43:08.258 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\HouDuan\apache-tomcat-8.5.60\webapps\docs]
+08-Jan-2021 13:43:10.568 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:43:10.575 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\HouDuan\apache-tomcat-8.5.60\webapps\docs]的部署已在[2,317]毫秒内完成
+08-Jan-2021 13:43:10.577 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\HouDuan\apache-tomcat-8.5.60\webapps\examples]
+08-Jan-2021 13:43:13.739 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:43:13.806 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\HouDuan\apache-tomcat-8.5.60\webapps\examples]的部署已在[3,229]毫秒内完成
+08-Jan-2021 13:43:13.806 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\HouDuan\apache-tomcat-8.5.60\webapps\host-manager]
+08-Jan-2021 13:43:16.223 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:43:16.228 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\HouDuan\apache-tomcat-8.5.60\webapps\host-manager]的部署已在[2,422]毫秒内完成
+08-Jan-2021 13:43:16.229 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\HouDuan\apache-tomcat-8.5.60\webapps\manager]
+08-Jan-2021 13:43:18.435 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:43:18.440 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\HouDuan\apache-tomcat-8.5.60\webapps\manager]的部署已在[2,210]毫秒内完成
+08-Jan-2021 13:43:18.440 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\HouDuan\apache-tomcat-8.5.60\webapps\ROOT]
+08-Jan-2021 13:43:20.808 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:43:20.812 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\HouDuan\apache-tomcat-8.5.60\webapps\ROOT]的部署已在[2,372]毫秒内完成
+08-Jan-2021 13:43:20.841 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8081"]
+08-Jan-2021 13:43:20.868 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 17951 ms
+08-Jan-2021 13:55:13.911 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy 正在取消部署上下文[/equipManage]
+08-Jan-2021 13:55:24.008 信息 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR 正在部署web应用程序存档文件[D:\HouDuan\apache-tomcat-8.5.60\webapps\equipManage.war]
+08-Jan-2021 13:55:24.186 警告 [localhost-startStop-2] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [5.0]。将使用默认版本。
+08-Jan-2021 13:55:26.719 信息 [localhost-startStop-2] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 13:55:26.728 信息 [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR web应用程序存档文件[D:\HouDuan\apache-tomcat-8.5.60\webapps\equipManage.war]的部署已在[2,720]ms内完成
+08-Jan-2021 14:23:02.319 信息 [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\HouDuan\apache-tomcat-8.5.60\webapps\EquipManage2]
+08-Jan-2021 14:23:04.526 信息 [localhost-startStop-3] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+08-Jan-2021 14:23:04.535 信息 [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\HouDuan\apache-tomcat-8.5.60\webapps\EquipManage2]的部署已在[2,216]毫秒内完成
+08-Jan-2021 14:24:15.385 信息 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy 正在取消部署上下文[/EquipManage2]
+08-Jan-2021 15:41:07.463 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause 暂停ProtocolHandler["http-nio-8081"]
+08-Jan-2021 15:41:07.722 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal 正在停止服务[Catalina]
+08-Jan-2021 15:41:07.822 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop 正在停止ProtocolHandler ["http-nio-8081"]
+08-Jan-2021 15:41:07.832 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8081"]
